@@ -6,12 +6,16 @@ import shutil
 import cloudinary
 import cloudinary.uploader
 import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # === CONFIGURATION CLOUDINARY ===
 cloudinary.config(
-  cloud_name = 'djfdv95aj',
-  api_key = '555924372556646',
-  api_secret = '6wpP4zt-SUjifJwdrD6CPQjQPNE'
+    cloud_name=os.getenv('CLOUDINARY_CLOUD_NAME'),
+    api_key=os.getenv('CLOUDINARY_API_KEY'),
+    api_secret=os.getenv('CLOUDINARY_API_SECRET')
 )
 
 from ocr_llm_extractor import preprocess_image, extract_all_fields, FIELD_BOXES
