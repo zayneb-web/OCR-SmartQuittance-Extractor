@@ -1,0 +1,28 @@
+[
+  {
+    "assurance": "QUITTANCE DE PRIME",
+    "num_contrat": "21-A67138",
+    "Periode d'assurance": {
+      "date_debut": "30/05/2024",
+      "date_fin": "31/07/2044"
+    },
+    "numero quittance": "24406765",
+    "risque": "INCENDIE",
+    "prime": "570.515",
+    "code": "59Z",
+    "COUT DE CONTRAT": "15.000",
+    "assure": {
+      "nom et prenom": "MAKREM BENAMMAR",
+      "adresse": "18RUEMAKTA ARIANA",
+      "code postal": "2081"
+    },
+    "PER": "STR",
+    "taxe": {
+      "taxe": "70.262",
+      "fg": "3.000"
+    },
+    "somme a payer": "658.777",
+    "total": "658.777",
+    "source_file": "HP0006.jpg"
+  }
+]
