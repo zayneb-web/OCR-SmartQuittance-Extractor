@@ -1,4 +1,9 @@
-pytesseract
-Pillow
-openai
-python-dotenv 
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python
+cloudinary
+python-dotenv
+paddleocr
+Pillow 

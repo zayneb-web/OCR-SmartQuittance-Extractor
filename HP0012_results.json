@@ -1,0 +1,33 @@
+{
+  "assurance": "",
+  "numero_quittance": "",
+  "agence": "IPTEUR",
+  "souscripteur": "E 7 RUE NARJESCITE BELA",
+  "adresse": "2097 BOU",
+  "ville": "BENAMMAREF",
+  "assure": "RAT 2520123785",
+  "num_contrat": "ENT",
+  "fractionnement": "",
+  "numero_aliment": "ETDU 08/06/2024",
+  "periode_assurance": {
+    "date_debut": "",
+    "date_fin": "Taxe Base Ta"
+  },
+  "prime_base": "",
+  "prime_annexe": "1000",
+  "frais": "8,002D",
+  "taxe_base": "RIVE",
+  "taxes_annexes": "",
+  "fpcsr": "",
+  "fpac": "",
+  "fga": "",
+  "prime_totale": "",
+  "categorie_risque": "Tsque 865",
+  "immatriculation": "KIA",
+  "marque": "",
+  "type_vehicule": "",
+  "date_emission": "",
+  "commission": "",
+  "source_file": "HP0012.jpg",
+  "detected_format": "carte_assurances"
+}

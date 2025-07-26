@@ -1,0 +1,33 @@
+{
+  "assurance": "QUITTANCE TERME",
+  "numero_quittance": "02024063894",
+  "agence": "100",
+  "souscripteur": "BEN AMMAR EPBOURBIAAHAJER",
+  "adresse": "7 RUE NARJES CITE BELAIR",
+  "ville": "BOUMHEL",
+  "code_postal": "2097",
+  "assure": "BEN AMMAR EP BOURBIAA HAJER",
+  "num_contrat": "2520123785",
+  "fractionnement": "SEMESTRIEL",
+  "numero_aliment": "",
+  "periode_assurance": {
+    "date_debut": "08/06/2024",
+    "date_fin": "07/12/2024"
+  },
+  "prime_base": "49,000DT",
+  "prime_annexe": "628,002DT",
+  "frais": "40.000DT",
+  "taxe_base": "12.460DT",
+  "taxes_annexes": "75.360DT",
+  "fpcsr": "0.300DT",
+  "fpac": "0.500 DT",
+  "fga": "3,000DT",
+  "prime_totale": "808.622DT",
+  "categorie_risque": "USAGE PRIVE",
+  "immatriculation": "865TU159",
+  "marque": "KIARIO",
+  "type_vehicule": "IHS4K3615",
+  "date_emission": "01/06/2024",
+  "source_file": "HP0012.jpg",
+  "detected_format": "hp0012_custom"
+}
